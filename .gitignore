@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Hardwario magic
+obj/
+out/
+.gitmodules
+.DS_Store
+firmware.bin
+.pio/
+.vscode/
